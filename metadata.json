@@ -1,0 +1,5 @@
+{
+  "name": "TechFest Navigator",
+  "description": "Interactive indoor navigation system for the School Tech Fest using SVG maps and predefined routing.",
+  "requestFramePermissions": []
+}
